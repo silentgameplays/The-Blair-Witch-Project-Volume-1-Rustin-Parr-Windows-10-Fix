@@ -8,7 +8,7 @@ The Blair Witch Project Games Fix
 
 2. Download/Copy/Paste all files from this preconfigured fix to the folder overwritting when necessary C:\Program Files (x86)\Terminal Reality\Blair Witch Volume One - Rustin Parr
 
-3. Change Compatibiltiy to Windows XP SP 2>Run as Administrator
+3. Change Compatibility of nocturne.exe to Windows XP SP 2>Run as Administrator
 
 4. After Launching the game go to the settings Graphics and change Hardware mode to On if its not set and choose Vodoo 3dfx card (1)
 
