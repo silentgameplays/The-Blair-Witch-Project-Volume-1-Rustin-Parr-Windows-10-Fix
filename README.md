@@ -1,5 +1,5 @@
 # The-Blair-Witch-Project-Volume-1-Rustin-Parr-Windows-10-Fix
-The Blair Witch Project game fix
+The Blair Witch Project Games Fix
 
 
 0. Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play .NET 3.5 Framework support
