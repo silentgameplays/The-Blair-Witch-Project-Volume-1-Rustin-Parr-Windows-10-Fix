@@ -18,13 +18,13 @@ The Blair Witch Project Games Fix
 
 # It is also possible running all three games without dgvoodoo files:
 
-1.Make sure to turn off Geforce Experience before installig the game
+1. Make sure to turn off Geforce Experience before installing the game
 
 2. Set compatibility to Windows 98/ME 
 
-3. Change seting to run as admin
+3. Change setting to run as admin
 
-4. Copy/paste only the nocturne.ini file into the game folder
+4. Copy/paste only the nocturne.ini file into the System game folder
 
 5. Run the game
 
