@@ -15,11 +15,17 @@ The Blair Witch Project Games Fix
 5. Set resolution to 640x480 (dont worry it is set to FHD in the Fix)
 
 6. Run the game for the first time and configure keyboard settings (faster than waiting before running)
+
 # It is also possible running all three games without dgvoodoo files:
+
 1.Make sure to turn off Geforce Experience before installig the game
+
 2. Set compatibility to Windows 98/ME 
+
 3. Change seting to run as admin
+
 4. Copy/paste only the nocturne.ini file into the game folder
+
 5. Run the game
 
 Enjoy the classic!
